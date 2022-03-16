@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+#black {
+  text-align: left;
+  background-color: black;
+  color: white;
+  padding: 5px 5px 5px 10px;
+}
+h1 span {
+  color: cyan;
+}
+#purple {
+  background-color: purple;
+  color: white;
+  text-align: center;
+  font-style: italic;
+  padding: 5px 0px;
+}
+
+#sky-blue {
+  background-color: skyblue;
+  text-align: right;
+  text-decoration: underline;
+  color: purple;
+  padding: 5px 10px 5px 0px;
+}
+
+.style {
+  margin: 10px;
+}
